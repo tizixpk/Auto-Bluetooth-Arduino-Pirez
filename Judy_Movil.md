@@ -1,4 +1,4 @@
-###### Este archivo es lo mismo que Judy Movil.docx. 
+###### Este archivo es lo mismo que Judy Movil.docx. Las imagenes no estan aca
 # Judy Móvil: Vehículo Robótico a Escala Controlado por Arduino
 
 ## Introducción
@@ -19,7 +19,6 @@ comportamiento autónomo o semiautónomo en un sistema móvil.
 
 ## Arquitectura del sistema
 
-![](media/image1.png){width="6.1375in" height="4.091666666666667in"}\
 El diagrama de bloques de la Figura muestra los principales componentes
 del vehículo. La placa **Arduino UNO** es el cerebro del sistema (bloque
 azul); recibe comandos inalámbricos desde el teléfono móvil (bloque
@@ -113,8 +112,6 @@ los comandos recibidos.
 
 ## Detección de obstáculos: Sensores ultrasónicos HC-SR04
 
-![](media/image2.png){width="3.443999343832021in"
-height="2.2959995625546807in"}\
 Judy Móvil emplea dos **sensores ultrasónicos HC-SR04** (montados en el
 chasis delantero y/o lateral) para detectar obstáculos en su camino. El
 HC-SR04 es un sensor de distancia de bajo costo que utiliza ultrasonido
