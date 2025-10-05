@@ -182,7 +182,7 @@ módulos de control y detección.
   **Chasis plástico Plancha de 200×150 mm aprox. (se usaron 2  \\\$30.000
   (x2)**            chapas)                                    (2 u.)
 
-  **Pilas AA (x5)** Pilas alcalinas de 1.5 V                   \\\$40.000
+  **Pilas 18650(x2)** Pilas alcalinas de 7.5 V                   \\\$40.000
                                                                (5 u.)
   -------------------------------------------------------------------------
 
